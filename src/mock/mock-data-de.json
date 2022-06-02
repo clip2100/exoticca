@@ -1,0 +1,2212 @@
+{
+	"hero": {
+		"image": [
+			{
+				"url": "//d1fl2om3sc0eid.cloudfront.net/img/p/5016/f.jpg",
+				"text": ""
+			}
+		],
+		"title": "<strong>Unvergessliche</strong> Reisen zu <strong>unglaublichen</strong> Preisen"
+	},
+	"slides": [
+		{
+			"name": "Short Trips",
+			"description": "home@sliders@shortTrips@description",
+			"slug": "/de/short-trips",
+			"type": "custom",
+			"title": "home@sliders@shortTrips@title",
+			"icon": "short-trips",
+			"background": "short_trips_bg",
+			"cards": [
+				{
+					"id": 4736,
+					"title": "Basare & 1001 Nacht im Atlasgebirge",
+					"destination": "Marokko",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4736/c199664.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4736/c199664.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4736/c199664.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/afrika/4736-basare-1001-nacht-im-atlasgebirge",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 699,
+						"fromPriceBeautify": "699€",
+						"discountSaved": 530,
+						"oldPriceBeautify": "1.299€",
+						"pricingPercentage": 42,
+						"pricePerNight": "100€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10539,
+					"title": "Magical Baltic Capitals",
+					"destination": "Lithuania, Latvia & Estonia",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10539-magical-baltic-capitals",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 699,
+						"fromPriceBeautify": "699€",
+						"discountSaved": 660,
+						"oldPriceBeautify": "1.399€",
+						"pricingPercentage": 48,
+						"pricePerNight": "100€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 8253,
+					"title": "Pyramiden & Nil-Kreuzfahrt mit Vollpension",
+					"destination": "Ägypten",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/afrika/8253-pyramiden-nil-kreuzfahrt-mit-vollpension",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1299,
+						"fromPriceBeautify": "1.299€",
+						"discountSaved": 500,
+						"oldPriceBeautify": "1.799€",
+						"pricingPercentage": 27,
+						"pricePerNight": "186€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 11318,
+					"title": "Küstenstädte und Kulturschätze",
+					"destination": "Portugal",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11318/c246898.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11318/c246898.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11318/c246898.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/11318-kustenstadte-und-kulturschatze",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 899,
+						"fromPriceBeautify": "899€",
+						"discountSaved": 670,
+						"oldPriceBeautify": "1.599€",
+						"pricingPercentage": 42,
+						"pricePerNight": "128€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10538,
+					"title": "Küstenstädte und Kulturschätze",
+					"destination": "Portugal",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10538-kustenstadte-und-kulturschatze",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1099,
+						"fromPriceBeautify": "1.099€",
+						"discountSaved": 820,
+						"oldPriceBeautify": "1.999€",
+						"pricingPercentage": 42,
+						"pricePerNight": "157€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 3
+				},
+				{
+					"id": 8655,
+					"title": "All-incl. im Paradies auf Erden",
+					"destination": "Malediven",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8655/c258629.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8655/c258629.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8655/c258629.jpg"
+						}
+					],
+					"days": 7,
+					"url": "/de/strande/asien/8655-all-incl-im-paradies-auf-erden",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1399,
+						"fromPriceBeautify": "1.399€",
+						"discountSaved": 1140,
+						"oldPriceBeautify": "2.599€",
+						"pricingPercentage": 44,
+						"pricePerNight": "233€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 9
+				}
+			]
+		},
+		{
+			"name": "Beach Escapes",
+			"description": "home@sliders@beachEscapes@description",
+			"slug": "/de/beach-escapes",
+			"type": "custom",
+			"title": "home@sliders@beachEscapes@title",
+			"icon": "beach-escapes",
+			"background": "beach_escapes_bg",
+			"cards": [
+				{
+					"id": 12973,
+					"title": "Riviera Maya mit 5-Sterne-All-inclusive",
+					"destination": "Mexiko",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12973/c279640.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12973/c279640.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12973/c279640.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/strande/amerika/12973-riviera-maya-mit-5-sterne-all-inclusive",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1799,
+						"fromPriceBeautify": "1.799€",
+						"discountSaved": 780,
+						"oldPriceBeautify": "2.599€",
+						"pricingPercentage": 30,
+						"pricePerNight": "225€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 5
+				},
+				{
+					"id": 8253,
+					"title": "Pyramiden & Nil-Kreuzfahrt mit Vollpension",
+					"destination": "Ägypten",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/afrika/8253-pyramiden-nil-kreuzfahrt-mit-vollpension",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1299,
+						"fromPriceBeautify": "1.299€",
+						"discountSaved": 500,
+						"oldPriceBeautify": "1.799€",
+						"pricingPercentage": 27,
+						"pricePerNight": "186€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 7406,
+					"title": "Panamas Wunder der Natur",
+					"destination": "Panama",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7406/c170199.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7406/c170199.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7406/c170199.jpg"
+						}
+					],
+					"days": 13,
+					"url": "/de/rundreisen/amerika/7406-panamas-wunder-der-natur",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2699,
+						"fromPriceBeautify": "2.699€",
+						"discountSaved": 2350,
+						"oldPriceBeautify": "5.099€",
+						"pricingPercentage": 46,
+						"pricePerNight": "225€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10539,
+					"title": "Magical Baltic Capitals",
+					"destination": "Lithuania, Latvia & Estonia",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10539-magical-baltic-capitals",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 699,
+						"fromPriceBeautify": "699€",
+						"discountSaved": 660,
+						"oldPriceBeautify": "1.399€",
+						"pricingPercentage": 48,
+						"pricePerNight": "100€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10538,
+					"title": "Küstenstädte und Kulturschätze",
+					"destination": "Portugal",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10538-kustenstadte-und-kulturschatze",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1099,
+						"fromPriceBeautify": "1.099€",
+						"discountSaved": 820,
+						"oldPriceBeautify": "1.999€",
+						"pricingPercentage": 42,
+						"pricePerNight": "157€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 3
+				},
+				{
+					"id": 10499,
+					"title": "Altes Rom, Kathedralen & Kanäle",
+					"destination": "Italien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c231667.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c231667.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c231667.jpg"
+						},
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c258632.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c258632.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c258632.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/rundreisen/europa/10499-altes-rom-kathedralen-kanale",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1199,
+						"fromPriceBeautify": "1.199€",
+						"discountSaved": 1110,
+						"oldPriceBeautify": "2.399€",
+						"pricingPercentage": 47,
+						"pricePerNight": "150€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				}
+			]
+		},
+		{
+			"name": "Amerika",
+			"description": "Auf unseren Amerika-Rundreisen erwarten Sie beeindruckende Naturlandschaften, exotische Kulturen, koloniale Altstädte und Ruinen vergangener Zivilisationen. Egal ob Kulturreise, Abenteuertrip oder all inclusive Urlaub – hier ist für jeden was dabei!",
+			"totalCampaigns": 16,
+			"slug": "/de/amerika",
+			"type": "continent",
+			"title": "<span>Amerika</span> genießen",
+			"icon": "america-stamp",
+			"background": "1_bg",
+			"cards": [
+				{
+					"id": 13498,
+					"title": "Kolonialzauber & Riviera Maya - All Incl.",
+					"destination": "Mexiko",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13498/c286961.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13498/c286961.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13498/c286961.jpg"
+						}
+					],
+					"days": 15,
+					"url": "/de/rundreisen/amerika/13498-kolonialzauber-riviera-maya-all-incl",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2399,
+						"fromPriceBeautify": "2.399€",
+						"discountSaved": 1030,
+						"oldPriceBeautify": "3.499€",
+						"pricingPercentage": 30,
+						"pricePerNight": "171€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": false,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 5
+				},
+				{
+					"id": 5246,
+					"title": "Inka-Mythen, Tango und Samba",
+					"destination": "Peru, Argentinien & Brasilien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5246/c279633.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5246/c279633.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5246/c279633.jpg"
+						}
+					],
+					"days": 18,
+					"url": "/de/rundreisen/amerika/5246-inka-mythen-tango-und-samba",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3299,
+						"fromPriceBeautify": "3.299€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "194€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 7
+				},
+				{
+					"id": 7923,
+					"title": "Highlights Südamerikas & feurige Rhythmen",
+					"destination": "Chile, Argentinien & Brasilien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185541.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185541.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185541.jpg"
+						},
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185542.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185542.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185542.jpg"
+						}
+					],
+					"days": 18,
+					"url": "/de/rundreisen/amerika/7923-highlights-sudamerikas-feurige-rhythmen",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3799,
+						"fromPriceBeautify": "3.799€",
+						"discountSaved": 1830,
+						"oldPriceBeautify": "5.699€",
+						"pricingPercentage": 32,
+						"pricePerNight": "223€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 5164,
+					"title": "Wasserfälle, Gletscher & Sambarhythmen",
+					"destination": "Argentinien & Brasilien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5164/c199986.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5164/c199986.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5164/c199986.jpg"
+						}
+					],
+					"days": 15,
+					"url": "/de/natur/amerika/5164-wasserfalle-gletscher-sambarhythmen",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2499,
+						"fromPriceBeautify": "2.499€",
+						"discountSaved": 1730,
+						"oldPriceBeautify": "4.299€",
+						"pricingPercentage": 40,
+						"pricePerNight": "179€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": true,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 11
+				},
+				{
+					"id": 5306,
+					"title": "Naturerlebnis und Strandvergnügen",
+					"destination": "Costa Rica",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5306/c199984.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5306/c199984.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5306/c199984.jpg"
+						}
+					],
+					"days": 13,
+					"url": "/de/rundreisen/amerika/5306-naturerlebnis-und-strandvergnugen",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2599,
+						"fromPriceBeautify": "2.599€",
+						"discountSaved": 1540,
+						"oldPriceBeautify": "4.199€",
+						"pricingPercentage": 37,
+						"pricePerNight": "217€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 7837,
+					"title": "Regenwaldabenteuer & Schildkrötenparadies",
+					"destination": "Costa Rica",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7837/c258633.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7837/c258633.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7837/c258633.jpg"
+						}
+					],
+					"days": 15,
+					"url": "/de/rundreisen/amerika/7837-regenwaldabenteuer-schildkrotenparadies",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1899,
+						"fromPriceBeautify": "1.899€",
+						"discountSaved": 1160,
+						"oldPriceBeautify": "3.099€",
+						"pricingPercentage": 37,
+						"pricePerNight": "136€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 12456,
+					"title": "Arenal, Puerto Viejo & Bocas del Toro",
+					"destination": "Costa Rica & Panama ",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12456/c267318.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12456/c267318.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12456/c267318.jpg"
+						},
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12456/c267319.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12456/c267319.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12456/c267319.jpg"
+						}
+					],
+					"days": 12,
+					"url": "/de/rundreisen/amerika/12456-arenal-puerto-viejo-bocas-del-toro",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2099,
+						"fromPriceBeautify": "2.099€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "191€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 8403,
+					"title": "Amazonasabenteuer & Galapagosparadies",
+					"destination": "Ecuador",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8403/c196062.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8403/c196062.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8403/c196062.jpg"
+						}
+					],
+					"days": 12,
+					"url": "/de/rundreisen/amerika/8403-amazonasabenteuer-galapagosparadies",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2199,
+						"fromPriceBeautify": "2.199€",
+						"discountSaved": 2180,
+						"oldPriceBeautify": "4.399€",
+						"pricingPercentage": 49,
+						"pricePerNight": "200€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 5756,
+					"title": "Von Vulkanen und Riesenschildkröten",
+					"destination": "Ecuador",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5756/c153345.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5756/c153345.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5756/c153345.jpg"
+						}
+					],
+					"days": 14,
+					"url": "/de/rundreisen/amerika/5756-von-vulkanen-und-riesenschildkroten",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3699,
+						"fromPriceBeautify": "3.699€",
+						"discountSaved": 2820,
+						"oldPriceBeautify": "6.599€",
+						"pricingPercentage": 43,
+						"pricePerNight": "285€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 12973,
+					"title": "Riviera Maya mit 5-Sterne-All-inclusive",
+					"destination": "Mexiko",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12973/c279640.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12973/c279640.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12973/c279640.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/strande/amerika/12973-riviera-maya-mit-5-sterne-all-inclusive",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1799,
+						"fromPriceBeautify": "1.799€",
+						"discountSaved": 780,
+						"oldPriceBeautify": "2.599€",
+						"pricingPercentage": 30,
+						"pricePerNight": "225€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 5
+				}
+			]
+		},
+		{
+			"name": "Asien",
+			"description": "Kaum eine andere Destination hat so vieles zu bieten wie Asien: geschichtsträchtige Tempelanlagen, traumhafte Sandstrände, ultramoderne Metropolen, exotische Gaumenfreuden ... Hier kommt jeder Globetrotter voll auf seine Kosten.",
+			"totalCampaigns": 16,
+			"slug": "/de/asien",
+			"type": "continent",
+			"title": "<span>Asien</span> erleben",
+			"icon": "asia-stamp",
+			"background": "2_bg",
+			"cards": [
+				{
+					"id": 4731,
+					"title": "Wüstenmetropole & All-Inclusive Paradies",
+					"destination": "Dubai & Mauritius",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4731/c153199.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4731/c153199.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4731/c153199.jpg"
+						}
+					],
+					"days": 10,
+					"url": "/de/strande/asien/4731-wustenmetropole-all-inclusive-paradies",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 4699,
+						"fromPriceBeautify": "4.699€",
+						"discountSaved": 1560,
+						"oldPriceBeautify": "6.299€",
+						"pricingPercentage": 24,
+						"pricePerNight": "522€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 10
+				},
+				{
+					"id": 6991,
+					"title": "Wüstenmetropole & All-Inclusive Malediven",
+					"destination": "Dubai und Malediven",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/6991/c211577.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/6991/c211577.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/6991/c211577.jpg"
+						}
+					],
+					"days": 10,
+					"url": "/de/strande/asien/6991-wustenmetropole-all-inclusive-malediven",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2399,
+						"fromPriceBeautify": "2.399€",
+						"discountSaved": 870,
+						"oldPriceBeautify": "3.299€",
+						"pricingPercentage": 26,
+						"pricePerNight": "267€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 8
+				},
+				{
+					"id": 8491,
+					"title": "Wüstenmetropole & farbenfrohes Indien",
+					"destination": "VAE & Indien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8491/c234101.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8491/c234101.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8491/c234101.jpg"
+						}
+					],
+					"days": 16,
+					"url": "/de/rundreisen/asien/8491-wustenmetropole-farbenfrohes-indien",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1599,
+						"fromPriceBeautify": "1.599€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "107€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": false,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 4177,
+					"title": "Kathmandu Tal & Verbotenes Königreich",
+					"destination": "Nepal & Bhutan",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4177/c199901.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4177/c199901.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4177/c199901.jpg"
+						}
+					],
+					"days": 19,
+					"url": "/de/rundreisen/asien/4177-kathmandu-tal-verbotenes-konigreich",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 4199,
+						"fromPriceBeautify": "4.199€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "233€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": false,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 8484,
+					"title": "Paläste von Rajasthan & Varanasi",
+					"destination": "Indien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8484/c279639.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8484/c279639.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8484/c279639.jpg"
+						}
+					],
+					"days": 16,
+					"url": "/de/rundreisen/asien/8484-palaste-von-rajasthan-varanasi",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1799,
+						"fromPriceBeautify": "1.799€",
+						"discountSaved": 1710,
+						"oldPriceBeautify": "3.599€",
+						"pricingPercentage": 48,
+						"pricePerNight": "120€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 5802,
+					"title": "Die Highlights Indiens",
+					"destination": "Indien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5802/c191967.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5802/c191967.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5802/c191967.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/asien/5802-die-highlights-indiens",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1099,
+						"fromPriceBeautify": "1.099€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "157€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 3550,
+					"title": "Goldenes Dreieck & Nepal",
+					"destination": "Indien & Nepal",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/3550/c279638.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/3550/c279638.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/3550/c279638.jpg"
+						}
+					],
+					"days": 20,
+					"url": "/de/rundreisen/asien/3550-goldenes-dreieck-nepal",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2599,
+						"fromPriceBeautify": "2.599€",
+						"discountSaved": 2400,
+						"oldPriceBeautify": "4.999€",
+						"pricingPercentage": 47,
+						"pricePerNight": "137€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": false,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 8000,
+					"title": "Märchenhafte Rajasthan-Rundreise",
+					"destination": "Indien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8000/c279636.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8000/c279636.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8000/c279636.jpg"
+						}
+					],
+					"days": 13,
+					"url": "/de/rundreisen/asien/8000-marchenhafte-rajasthan-rundreise",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1199,
+						"fromPriceBeautify": "1.199€",
+						"discountSaved": 920,
+						"oldPriceBeautify": "2.199€",
+						"pricingPercentage": 43,
+						"pricePerNight": "100€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 4197,
+					"title": "Erlebnisreise mit Badeaufenthalt",
+					"destination": "Indonesien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4197/c199988.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4197/c199988.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4197/c199988.jpg"
+						}
+					],
+					"days": 14,
+					"url": "/de/rundreisen/asien/4197-erlebnisreise-mit-badeaufenthalt",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1799,
+						"fromPriceBeautify": "1.799€",
+						"discountSaved": 1430,
+						"oldPriceBeautify": "3.299€",
+						"pricingPercentage": 44,
+						"pricePerNight": "138€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 10
+				},
+				{
+					"id": 5300,
+					"title": "Kuala Lumpur & Insel-Hopping in Indonesien",
+					"destination": "Malaysia & Indonesien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5300/c194432.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5300/c194432.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5300/c194432.jpg"
+						}
+					],
+					"days": 18,
+					"url": "/de/natur/asien/5300-kuala-lumpur-insel-hopping-in-indonesien",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3199,
+						"fromPriceBeautify": "3.199€",
+						"discountSaved": 1890,
+						"oldPriceBeautify": "5.099€",
+						"pricingPercentage": 37,
+						"pricePerNight": "188€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": false,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				}
+			]
+		},
+		{
+			"name": "Afrika",
+			"description": "Afrika ist das perfekte Reiseziel für Naturfreunde und Abenteuerlustige. Auf einer Safari erleben Sie die großartige Artenvielfalt dieses Kontinents am eigenen Leib, während die Städte mit ihrer Geschichte jeden neugierigen Weltenbummler überraschen.",
+			"totalCampaigns": 11,
+			"slug": "/de/afrika",
+			"type": "continent",
+			"title": "<span>Afrika</span> entdecken",
+			"icon": "africa-stamp",
+			"background": "3_bg",
+			"cards": [
+				{
+					"id": 13136,
+					"title": "Das Land der Pharaonen & Nilkreuzfahrt",
+					"destination": "Marokko & Ägypten",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13136/c279801.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13136/c279801.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13136/c279801.jpg"
+						}
+					],
+					"days": 15,
+					"url": "/de/rundreisen/afrika/13136-das-land-der-pharaonen-nilkreuzfahrt",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3799,
+						"fromPriceBeautify": "3.799€",
+						"discountSaved": 2660,
+						"oldPriceBeautify": "6.499€",
+						"pricingPercentage": 41,
+						"pricePerNight": "271€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10994,
+					"title": "Haschemitisches Königreich & Pyramiden",
+					"destination": "Jordanien und Ägypten",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240722.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240722.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240722.jpg"
+						},
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240723.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240723.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240723.jpg"
+						}
+					],
+					"days": 16,
+					"url": "/de/rundreisen/asien/10994-haschemitisches-konigreich-pyramiden",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2099,
+						"fromPriceBeautify": "2.099€",
+						"discountSaved": 1080,
+						"oldPriceBeautify": "3.199€",
+						"pricingPercentage": 33,
+						"pricePerNight": "140€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 6756,
+					"title": "Wüstenzauber und der Charme der Medinas",
+					"destination": "Marokko",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/6756/c199895.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/6756/c199895.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/6756/c199895.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/rundreisen/afrika/6756-wustenzauber-und-der-charme-der-medinas",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1599,
+						"fromPriceBeautify": "1.599€",
+						"discountSaved": 1600,
+						"oldPriceBeautify": "3.199€",
+						"pricingPercentage": 50,
+						"pricePerNight": "200€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 4731,
+					"title": "Wüstenmetropole & All-Inclusive Paradies",
+					"destination": "Dubai & Mauritius",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4731/c153199.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4731/c153199.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4731/c153199.jpg"
+						}
+					],
+					"days": 10,
+					"url": "/de/strande/asien/4731-wustenmetropole-all-inclusive-paradies",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 4699,
+						"fromPriceBeautify": "4.699€",
+						"discountSaved": 1560,
+						"oldPriceBeautify": "6.299€",
+						"pricingPercentage": 24,
+						"pricePerNight": "522€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 10
+				},
+				{
+					"id": 8699,
+					"title": "Tropenparadies mit all-inclusive",
+					"destination": "Mauritius",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8699/c202077.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8699/c202077.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8699/c202077.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/afrika/8699-tropenparadies-mit-all-inclusive",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1799,
+						"fromPriceBeautify": "1.799€",
+						"discountSaved": 1620,
+						"oldPriceBeautify": "3.499€",
+						"pricingPercentage": 47,
+						"pricePerNight": "257€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 9
+				},
+				{
+					"id": 10292,
+					"title": "Safari, Dünenwunder & Naukluft-Gebirge",
+					"destination": "Namibia",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10292/c228053.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10292/c228053.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10292/c228053.jpg"
+						}
+					],
+					"days": 12,
+					"url": "/de/rundreisen/afrika/10292-safari-dunenwunder-naukluft-gebirge",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 2199,
+						"fromPriceBeautify": "2.199€",
+						"discountSaved": 1680,
+						"oldPriceBeautify": "3.899€",
+						"pricingPercentage": 43,
+						"pricePerNight": "200€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 7766,
+					"title": "Safariabenteuer in Tansania",
+					"destination": "Tansania",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7766/c258631.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7766/c258631.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7766/c258631.jpg"
+						}
+					],
+					"days": 10,
+					"url": "/de/rundreisen/afrika/7766-safariabenteuer-in-tansania",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3499,
+						"fromPriceBeautify": "3.499€",
+						"discountSaved": 1160,
+						"oldPriceBeautify": "4.699€",
+						"pricingPercentage": 24,
+						"pricePerNight": "389€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 7969,
+					"title": "Land der Menschenaffen",
+					"destination": "Uganda",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7969/c186464.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7969/c186464.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7969/c186464.jpg"
+						}
+					],
+					"days": 10,
+					"url": "/de/rundreisen/afrika/7969-land-der-menschenaffen",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3299,
+						"fromPriceBeautify": "3.299€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "367€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 8253,
+					"title": "Pyramiden & Nil-Kreuzfahrt mit Vollpension",
+					"destination": "Ägypten",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8253/c258630.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/afrika/8253-pyramiden-nil-kreuzfahrt-mit-vollpension",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1299,
+						"fromPriceBeautify": "1.299€",
+						"discountSaved": 500,
+						"oldPriceBeautify": "1.799€",
+						"pricingPercentage": 27,
+						"pricePerNight": "186€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 5933,
+					"title": "Traumhaftes Naturparadies Madagaskar",
+					"destination": "Madagaskar",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5933/c196653.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5933/c196653.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5933/c196653.jpg"
+						}
+					],
+					"days": 17,
+					"url": "/de/rundreisen/afrika/5933-traumhaftes-naturparadies-madagaskar",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3099,
+						"fromPriceBeautify": "3.099€",
+						"discountSaved": 1620,
+						"oldPriceBeautify": "4.799€",
+						"pricingPercentage": 34,
+						"pricePerNight": "194€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": false,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				}
+			]
+		},
+		{
+			"name": "Europa",
+			"description": "Der alte Kontinent eignet sich nicht nur wegen seiner Nähe für einen Traumurlaub. Auf Städtetrips erfahren Sie mehr zu Europas Vergangenheit, Naturreisen eröffnen Ihnen die Wunder der Wildnis und beim hiesigen Inselhüpfen ist das Paradies ganz nah.",
+			"totalCampaigns": 8,
+			"slug": "/de/europa",
+			"type": "continent",
+			"title": "<span>Europa</span> erfahren",
+			"icon": "europa-stamp",
+			"background": "4_bg",
+			"cards": [
+				{
+					"id": 12873,
+					"title": "Flusskreuzfahrt Schätze der Donau",
+					"destination": "Österreich, Ungarn & Slowakei",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12873/c274894.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12873/c274894.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12873/c274894.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/rundreisen/europa/12873-flusskreuzfahrt-schatze-der-donau",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1399,
+						"fromPriceBeautify": "1.399€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "175€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 13220,
+					"title": "Kulturschätze & zauberhaftes Madeira",
+					"destination": "Portugal",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13220/c281373.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13220/c281373.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13220/c281373.jpg"
+						}
+					],
+					"days": 12,
+					"url": "/de/rundreisen/europa/13220-kulturschatze-zauberhaftes-madeira",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1899,
+						"fromPriceBeautify": "1.899€",
+						"discountSaved": 1870,
+						"oldPriceBeautify": "3.799€",
+						"pricingPercentage": 49,
+						"pricePerNight": "173€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 3
+				},
+				{
+					"id": 10539,
+					"title": "Magical Baltic Capitals",
+					"destination": "Lithuania, Latvia & Estonia",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10539/c232594.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10539-magical-baltic-capitals",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 699,
+						"fromPriceBeautify": "699€",
+						"discountSaved": 660,
+						"oldPriceBeautify": "1.399€",
+						"pricingPercentage": 48,
+						"pricePerNight": "100€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 11172,
+					"title": "Athen & Kykladen Inseln Ausflug",
+					"destination": "Griechenland",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11172/c258634.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11172/c258634.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11172/c258634.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/11172-athen-kykladen-inseln-ausflug",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1199,
+						"fromPriceBeautify": "1.199€",
+						"discountSaved": 650,
+						"oldPriceBeautify": "1.899€",
+						"pricingPercentage": 35,
+						"pricePerNight": "171€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10499,
+					"title": "Altes Rom, Kathedralen & Kanäle",
+					"destination": "Italien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c231667.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c231667.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c231667.jpg"
+						},
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c258632.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c258632.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10499/c258632.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/rundreisen/europa/10499-altes-rom-kathedralen-kanale",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1199,
+						"fromPriceBeautify": "1.199€",
+						"discountSaved": 1110,
+						"oldPriceBeautify": "2.399€",
+						"pricingPercentage": 47,
+						"pricePerNight": "150€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10538,
+					"title": "Küstenstädte und Kulturschätze",
+					"destination": "Portugal",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10538-kustenstadte-und-kulturschatze",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1099,
+						"fromPriceBeautify": "1.099€",
+						"discountSaved": 820,
+						"oldPriceBeautify": "1.999€",
+						"pricingPercentage": 42,
+						"pricePerNight": "157€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 3
+				},
+				{
+					"id": 12248,
+					"title": "Schätze von Siebenbürgen",
+					"destination": "Romania",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12248/c263395.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12248/c263395.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/12248/c263395.jpg"
+						}
+					],
+					"days": 9,
+					"url": "/de/rundreisen/europa/12248-schatze-von-siebenburgen",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 999,
+						"fromPriceBeautify": "999€",
+						"discountSaved": 1000,
+						"oldPriceBeautify": "1.999€",
+						"pricingPercentage": 50,
+						"pricePerNight": "125€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				},
+				{
+					"id": 10871,
+					"title": "Traumhafte Alpen & Gletscher-Szenenbahn",
+					"destination": "Die Schweiz",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10871/c238381.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10871/c238381.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10871/c238381.jpg"
+						}
+					],
+					"days": 8,
+					"url": "/de/rundreisen/europa/10871-traumhafte-alpen-gletscher-szenenbahn",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 1799,
+						"fromPriceBeautify": "1.799€",
+						"discountSaved": 1770,
+						"oldPriceBeautify": "3.599€",
+						"pricingPercentage": 49,
+						"pricePerNight": "257€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": true,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 3
+				}
+			]
+		},
+		{
+			"name": "Ozeanien",
+			"description": "Eine Fernreise ans andere Ende der Welt führt Sie zu schneeweißen Stränden, einzigartigen Gebirgen und uralten Regenwäldern. Doch auch die Städte Ozeaniens sind eine beliebte Destination auf jeder organisierten Reise.",
+			"totalCampaigns": 1,
+			"slug": "/de/ozeanien",
+			"type": "continent",
+			"title": "<span>Ozeanien</span> erkunden",
+			"icon": "oceania-stamp",
+			"background": "5_bg",
+			"cards": [
+				{
+					"id": 13657,
+					"title": "Abenteuer in Down Under",
+					"destination": "Ostaustralien",
+					"images": [
+						{
+							"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13657/c289935.jpg",
+							"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13657/c289935.jpg",
+							"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/13657/c289935.jpg"
+						}
+					],
+					"days": 15,
+					"url": "/de/rundreisen/ozeanien/13657-abenteuer-in-down-under",
+					"map": null,
+					"highlights": null,
+					"includes": null,
+					"priceDetail": {
+						"fromPrice": 3399,
+						"fromPriceBeautify": "3.399€",
+						"discountSaved": 0,
+						"oldPriceBeautify": "99€",
+						"pricingPercentage": 0,
+						"pricePerNight": "243€"
+					},
+					"tags": null,
+					"crafterDetail": null,
+					"hasPrivateTour": false,
+					"hasSoloTraveller": true,
+					"headLine": null,
+					"tagHeadLine": [],
+					"isLandOnly": false,
+					"isValid": true,
+					"extraNights": 0
+				}
+			]
+		}
+	],
+	"topSales": {
+		"type": "top_sales",
+		"title": "Meistverkaufte Reisen\n",
+		"icon": "top-selling",
+		"background": "Meistverkaufte Reisen\n",
+		"cards": [
+			{
+				"id": 10538,
+				"title": "Küstenstädte und Kulturschätze",
+				"destination": "Portugal",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10538/c232334.jpg"
+					}
+				],
+				"days": 8,
+				"url": "/de/rundreisen/europa/10538-kustenstadte-und-kulturschatze",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 1099,
+					"fromPriceBeautify": "1.099€",
+					"discountSaved": 820,
+					"oldPriceBeautify": "1.999€",
+					"pricingPercentage": 42,
+					"pricePerNight": "157€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 3
+			},
+			{
+				"id": 7923,
+				"title": "Highlights Südamerikas & feurige Rhythmen",
+				"destination": "Chile, Argentinien & Brasilien",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185541.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185541.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185541.jpg"
+					},
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185542.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185542.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7923/c185542.jpg"
+					}
+				],
+				"days": 18,
+				"url": "/de/rundreisen/amerika/7923-highlights-sudamerikas-feurige-rhythmen",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 3799,
+					"fromPriceBeautify": "3.799€",
+					"discountSaved": 1830,
+					"oldPriceBeautify": "5.699€",
+					"pricingPercentage": 32,
+					"pricePerNight": "223€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 7837,
+				"title": "Regenwaldabenteuer & Schildkrötenparadies",
+				"destination": "Costa Rica",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7837/c258633.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7837/c258633.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/7837/c258633.jpg"
+					}
+				],
+				"days": 15,
+				"url": "/de/rundreisen/amerika/7837-regenwaldabenteuer-schildkrotenparadies",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 1899,
+					"fromPriceBeautify": "1.899€",
+					"discountSaved": 1160,
+					"oldPriceBeautify": "3.099€",
+					"pricingPercentage": 37,
+					"pricePerNight": "136€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 8403,
+				"title": "Amazonasabenteuer & Galapagosparadies",
+				"destination": "Ecuador",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8403/c196062.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8403/c196062.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8403/c196062.jpg"
+					}
+				],
+				"days": 12,
+				"url": "/de/rundreisen/amerika/8403-amazonasabenteuer-galapagosparadies",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 2199,
+					"fromPriceBeautify": "2.199€",
+					"discountSaved": 2180,
+					"oldPriceBeautify": "4.399€",
+					"pricingPercentage": 49,
+					"pricePerNight": "200€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 11172,
+				"title": "Athen & Kykladen Inseln Ausflug",
+				"destination": "Griechenland",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11172/c258634.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11172/c258634.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/11172/c258634.jpg"
+					}
+				],
+				"days": 8,
+				"url": "/de/rundreisen/europa/11172-athen-kykladen-inseln-ausflug",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 1199,
+					"fromPriceBeautify": "1.199€",
+					"discountSaved": 650,
+					"oldPriceBeautify": "1.899€",
+					"pricingPercentage": 35,
+					"pricePerNight": "171€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 3772,
+				"title": "Tempel, Dschungel und Bergpanorama ",
+				"destination": "Nepal",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/3772/c153136.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/3772/c153136.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/3772/c153136.jpg"
+					}
+				],
+				"days": 14,
+				"url": "/de/rundreisen/asien/3772-tempel-dschungel-und-bergpanorama",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 2299,
+					"fromPriceBeautify": "2.299€",
+					"discountSaved": 2280,
+					"oldPriceBeautify": "4.599€",
+					"pricingPercentage": 49,
+					"pricePerNight": "177€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 10994,
+				"title": "Haschemitisches Königreich & Pyramiden",
+				"destination": "Jordanien und Ägypten",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240722.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240722.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240722.jpg"
+					},
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240723.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240723.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/10994/c240723.jpg"
+					}
+				],
+				"days": 16,
+				"url": "/de/rundreisen/asien/10994-haschemitisches-konigreich-pyramiden",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 2099,
+					"fromPriceBeautify": "2.099€",
+					"discountSaved": 1080,
+					"oldPriceBeautify": "3.199€",
+					"pricingPercentage": 33,
+					"pricePerNight": "140€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 5306,
+				"title": "Naturerlebnis und Strandvergnügen",
+				"destination": "Costa Rica",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5306/c199984.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5306/c199984.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/5306/c199984.jpg"
+					}
+				],
+				"days": 13,
+				"url": "/de/rundreisen/amerika/5306-naturerlebnis-und-strandvergnugen",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 2599,
+					"fromPriceBeautify": "2.599€",
+					"discountSaved": 1540,
+					"oldPriceBeautify": "4.199€",
+					"pricingPercentage": 37,
+					"pricePerNight": "217€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 4736,
+				"title": "Basare & 1001 Nacht im Atlasgebirge",
+				"destination": "Marokko",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4736/c199664.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4736/c199664.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/4736/c199664.jpg"
+					}
+				],
+				"days": 8,
+				"url": "/de/rundreisen/afrika/4736-basare-1001-nacht-im-atlasgebirge",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 699,
+					"fromPriceBeautify": "699€",
+					"discountSaved": 530,
+					"oldPriceBeautify": "1.299€",
+					"pricingPercentage": 42,
+					"pricePerNight": "100€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			},
+			{
+				"id": 8484,
+				"title": "Paläste von Rajasthan & Varanasi",
+				"destination": "Indien",
+				"images": [
+					{
+						"desktop": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8484/c279639.jpg",
+						"tablet": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8484/c279639.jpg",
+						"mobile": "https://d24z8x8x99dr4r.cloudfront.net/img/p/8484/c279639.jpg"
+					}
+				],
+				"days": 16,
+				"url": "/de/rundreisen/asien/8484-palaste-von-rajasthan-varanasi",
+				"map": null,
+				"highlights": null,
+				"includes": null,
+				"priceDetail": {
+					"fromPrice": 1799,
+					"fromPriceBeautify": "1.799€",
+					"discountSaved": 1710,
+					"oldPriceBeautify": "3.599€",
+					"pricingPercentage": 48,
+					"pricePerNight": "120€"
+				},
+				"tags": null,
+				"crafterDetail": null,
+				"hasPrivateTour": false,
+				"hasSoloTraveller": true,
+				"headLine": null,
+				"tagHeadLine": [],
+				"isLandOnly": false,
+				"isValid": true,
+				"extraNights": 0
+			}
+		]
+	}
+}
