@@ -53,15 +53,12 @@ export type SlideType = {
 	cards: CardType[];
 };
 
-export type SlidesType = {
+type SlidesType = {
 	slides: SlideType[];
 };
 
 export interface slideProps {
 	slide: SlideType;
-}
-export interface slidesProps {
-	slides: SlideType[];
 }
 
 /* TOP SALES */
@@ -72,7 +69,7 @@ export type TopSalesType = {
 	background: string;
 	cards: CardType[];
 };
-export interface topSalesProps {
+interface topSalesProps {
 	topSales: TopSalesType;
 }
 
@@ -85,7 +82,7 @@ export type HeroType = {
 	image: imagesHeroProps[];
 	title: string;
 };
-export interface heroProps {
+interface heroProps {
 	hero: HeroType;
 }
 
@@ -95,6 +92,6 @@ type dataType = {
 	slides: SlidesType[];
 	topSales: TopSalesType;
 };
-export interface dataProps {
+interface dataProps {
 	data: dataType;
 }

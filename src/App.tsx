@@ -1,7 +1,7 @@
 import * as React from "react";
 import axios from "axios";
 import styled from "styled-components";
-import Card from "./components/Card";
+
 import Carrousel from "./components/Carrousel";
 import DragableCarrousel from "./components/DragableCarrusel";
 import mockCa from "./mock/mock-data-ca.json";
@@ -11,7 +11,6 @@ import mockFr from "./mock/mock-data-fr.json";
 import mockMx from "./mock/mock-data-mx.json";
 import mockDe from "./mock/mock-data-de.json";
 
-import { ReactComponent as Arrow } from "./img/right-arrow.svg";
 import { HeroType, TopSalesType, SlideType } from "./common/dataTypes";
 
 export default function App() {
@@ -33,7 +32,6 @@ export default function App() {
 	}, [slides]);
 
 	const handleChange = (e: any) => {
-		//console.log(e.target.value);
 		setMarketValue(e.target.value);
 	};
 
@@ -99,12 +97,9 @@ export default function App() {
 				break;
 		}
 
-		//	setData(newData);
-		//	console.log(newData.slides[0]);
-		setHero(newData.hero);
 		setSlides(newData.slides);
-		setTopSales(newData.topSales);
-		//return newData;
+		//setHero(newData.hero);
+		//setTopSales(newData.topSales);
 	};
 
 	return (

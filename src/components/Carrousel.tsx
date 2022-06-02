@@ -1,10 +1,8 @@
 import * as React from "react";
 import Card from "./Card";
 import styled from "styled-components";
-import { slideProps } from "../common/dataTypes";
-//import useElemOnScreen from "../hooks/useElemOnScreen";
-
 import TitleSlide from "./TitleSlide";
+import { slideProps } from "../common/dataTypes";
 import { ReactComponent as Arrow } from "../img/right-arrow.svg";
 
 const Carrousel: React.FC<slideProps> = ({ slide }): JSX.Element => {
@@ -16,8 +14,6 @@ const Carrousel: React.FC<slideProps> = ({ slide }): JSX.Element => {
 		winHeight: window.innerHeight,
 	});
 
-	const [viewPC, setviewPC] = React.useState(true);
-	const backpack = require("../img/backpack.PNG");
 	const step = 345;
 
 	const detectSize = () => {
@@ -96,7 +92,7 @@ const Carrousel: React.FC<slideProps> = ({ slide }): JSX.Element => {
 
 	const swipeRight = () => {
 		const cardsShowing = Math.trunc(windowDimension.winWidth / step);
-		console.log(activeIndex, slide.cards.length, cardsShowing);
+		//console.log(activeIndex, slide.cards.length, cardsShowing);
 		if ((activeIndex + step) / 300 > slide.cards.length - cardsShowing) {
 			setShowArrowRight(false);
 		}
