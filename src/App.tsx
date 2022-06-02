@@ -28,8 +28,8 @@ export default function App() {
 	});
 
 	React.useEffect(() => {
-		//console.log(loadData());
-		loadData();
+		loadDataMock();
+		//loadDataAPI();
 	}, [slides]);
 
 	const handleChange = (e: any) => {
@@ -37,16 +37,30 @@ export default function App() {
 		setMarketValue(e.target.value);
 	};
 
-	const changeMarket = () => {};
+	//API from Exoticca (doesn't work, blocked by CORS policy)
+	const loadDataAPI = async () => {
+		//Free API for online testing (this one works!)
+		const api = "https://jsonplaceholder.typicode.com/posts";
 
-	const loadData = async () => {
-		/* 	try {
-			const newData2 = await axios.get("https://api-uk.exoticca.com/api/home", {
+		//API from Exoticca (doesn't work, blocked by CORS policy)
+		const api2 = "https://api-mx.exoticca.com/api/home";
+
+		try {
+			/*Trying to fetch normally doesn't work */
+			const newData = await axios.get(api2, {
 				headers: {
 					accept: "application/json",
 					"Content-Type": "application/json",
 				},
 			});
+			console.log(newData);
+
+			/*Trying to fetch with no-cors config, the response is 'opaque'*/
+			const newDataNoCors = await fetch(api2, {
+				method: "HEAD",
+				mode: "no-cors",
+			});
+			console.log(newDataNoCors);
 		} catch (error) {
 			if (axios.isAxiosError(error)) {
 				console.log("error message: ", error.message);
@@ -55,8 +69,10 @@ export default function App() {
 				console.log("unexpected error: ", error);
 				//	return "An unexpected error occurred";
 			}
-		} */
+		}
+	};
 
+	const loadDataMock = () => {
 		let newData = mockCa;
 		switch (marketValue) {
 			case "uk":
@@ -105,7 +121,7 @@ export default function App() {
 						<option value="de">Germany</option>
 						<option value="mx">Mexico</option>
 					</select>
-					<button onClick={loadData}> Select </button>
+					<button onClick={loadDataMock}> Select </button>
 				</StyledMarkets>
 				<hr className="solid" />
 
