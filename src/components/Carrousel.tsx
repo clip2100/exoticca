@@ -195,7 +195,7 @@ const StyledArrow = styled.div`
 `;
 
 const StyledArrowLeft = styled.div`
-	left: -5px;
+	left: -15px;
 	opacity: 1;
 	position: absolute;
 	z-index: 10;
