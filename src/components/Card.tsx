@@ -44,6 +44,9 @@ interface dataProps {
 	data: DataType;
 }
  */
+const minSizePC = 1024;
+const minSizeTablet = 680;
+
 const Card: React.FC<cardProps> = ({ card }): JSX.Element => {
 	const [windowDimension, detectHW] = React.useState({
 		winWidth: window.innerWidth,
@@ -77,9 +80,9 @@ const Card: React.FC<cardProps> = ({ card }): JSX.Element => {
 						<StyledImage
 							className="card-img-top"
 							src={
-								windowDimension.winWidth >= 1024
+								windowDimension.winWidth >= minSizePC
 									? card.images[0].desktop
-									: windowDimension.winWidth >= 680
+									: windowDimension.winWidth >= minSizeTablet
 									? card.images[0].tablet
 									: card.images[0].mobile
 							}
@@ -118,10 +121,19 @@ const StyledCard = styled.div`
 	position: relative;
 	background: white;
 	float: left;
-	width: 300px;
 
 	box-shadow: 0px 1px 3px 0px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%),
 		0px 2px 1px -1px rgb(0 0 0 / 12%);
+
+	@media only screen and (min-width: 1024) {
+		width: 300px;
+	}
+	@media only screen and (min-width: 680px) {
+		width: 90%;
+	}
+	@media only screen and (min-width: 360px) {
+		width: 90%;
+	}
 `;
 
 const StyledDiscount = styled.div`
@@ -195,6 +207,7 @@ const StyledDetailsContainer = styled.div`
 	color: black;
 	background-color: white;
 	text-align: initial;
+	box-sizing: content-box;
 	.details {
 		font-size: 1rem;
 		min-height: 44px;

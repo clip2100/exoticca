@@ -4,6 +4,7 @@ import styled from "styled-components";
 
 import Carrousel from "./components/Carrousel";
 import DragableCarrousel from "./components/DragableCarrusel";
+import RealDragableCarrousel from "./components/RealDragableCarrousel";
 import mockCa from "./mock/mock-data-ca.json";
 import mockEs from "./mock/mock-data-es.json";
 import mockUK from "./mock/mock-data-uk.json";
@@ -134,7 +135,11 @@ export default function App() {
 
 				{slides && slides.length > 0 && (
 					<DisplayForTablet>
-						<DragableCarrousel slide={slides[0]} key={slides[0].description} />
+						{/* <DragableCarrousel slide={slides[0]} key={slides[0].description} /> */}
+						<RealDragableCarrousel
+							slide={slides[0]}
+							key={slides[0].description}
+						/>
 					</DisplayForTablet>
 				)}
 			</Body>
